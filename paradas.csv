@@ -1,0 +1,750 @@
+﻿fecha,turno,estacion_id,causa,minutos
+2025-01-01,Mañana,EST-01,Ajustes de calidad,26
+2025-01-01,Noche,EST-01,Cambio de formato,45
+2025-01-01,Mañana,EST-02,Falla de máquina (espera mantención),91
+2025-01-01,Noche,EST-02,Falta de materia prima,77
+2025-01-02,Mañana,EST-01,Falla de máquina (espera mantención),56
+2025-01-02,Mañana,EST-02,Falta de materia prima,87
+2025-01-02,Noche,EST-02,Falta de materia prima,30
+2025-01-03,Tarde,EST-02,Falla de máquina (espera mantención),72
+2025-01-03,Noche,EST-02,Falta de materia prima,29
+2025-01-04,Mañana,EST-01,Ajustes de calidad,18
+2025-01-04,Noche,EST-01,Cambio de formato,30
+2025-01-04,Noche,EST-01,Ajustes de calidad,30
+2025-01-04,Mañana,EST-02,Cambio de formato,35
+2025-01-04,Noche,EST-02,Falta de personal,41
+2025-01-05,Noche,EST-01,Falta de materia prima,63
+2025-01-05,Mañana,EST-02,Cambio de formato,43
+2025-01-05,Noche,EST-02,Falta de materia prima,21
+2025-01-06,Mañana,EST-01,Falta de personal,62
+2025-01-06,Noche,EST-01,Falta de materia prima,76
+2025-01-06,Tarde,EST-02,Ajustes de calidad,24
+2025-01-06,Noche,EST-02,Falta de materia prima,80
+2025-01-07,Mañana,EST-01,Falta de materia prima,39
+2025-01-07,Mañana,EST-01,Cambio de formato,20
+2025-01-07,Tarde,EST-01,Falta de personal,55
+2025-01-07,Noche,EST-01,Falta de materia prima,38
+2025-01-07,Noche,EST-01,Ajustes de calidad,12
+2025-01-07,Noche,EST-01,Falla de máquina (espera mantención),89
+2025-01-08,Noche,EST-01,Falta de materia prima,104
+2025-01-08,Mañana,EST-02,Falta de materia prima,72
+2025-01-08,Mañana,EST-02,Cambio de formato,44
+2025-01-08,Tarde,EST-02,Ajustes de calidad,26
+2025-01-09,Mañana,EST-01,Falta de materia prima,82
+2025-01-09,Mañana,EST-01,Cambio de formato,37
+2025-01-09,Tarde,EST-02,Cambio de formato,17
+2025-01-09,Tarde,EST-02,Falla de máquina (espera mantención),107
+2025-01-10,Tarde,EST-01,Cambio de formato,22
+2025-01-10,Noche,EST-01,Falta de materia prima,44
+2025-01-10,Noche,EST-01,Cambio de formato,19
+2025-01-10,Noche,EST-02,Falta de personal,23
+2025-01-10,Noche,EST-02,Falla de máquina (espera mantención),98
+2025-01-11,Mañana,EST-01,Falta de materia prima,58
+2025-01-11,Tarde,EST-02,Falta de materia prima,118
+2025-01-12,Tarde,EST-01,Falla de máquina (espera mantención),133
+2025-01-12,Mañana,EST-02,Ajustes de calidad,25
+2025-01-13,Mañana,EST-01,Cambio de formato,26
+2025-01-13,Mañana,EST-01,Falla de máquina (espera mantención),131
+2025-01-13,Tarde,EST-01,Falta de materia prima,50
+2025-01-13,Tarde,EST-01,Falta de personal,32
+2025-01-13,Noche,EST-01,Cambio de formato,23
+2025-01-14,Mañana,EST-01,Ajustes de calidad,17
+2025-01-14,Tarde,EST-02,Falta de materia prima,71
+2025-01-14,Noche,EST-02,Falta de materia prima,98
+2025-01-15,Mañana,EST-01,Falta de materia prima,57
+2025-01-15,Tarde,EST-01,Falta de materia prima,31
+2025-01-15,Tarde,EST-01,Falla de máquina (espera mantención),56
+2025-01-16,Mañana,EST-01,Cambio de formato,25
+2025-01-16,Mañana,EST-01,Falta de personal,34
+2025-01-16,Noche,EST-02,Falta de materia prima,37
+2025-01-16,Noche,EST-02,Cambio de formato,32
+2025-01-17,Mañana,EST-01,Cambio de formato,24
+2025-01-17,Mañana,EST-01,Ajustes de calidad,11
+2025-01-17,Tarde,EST-01,Falta de materia prima,106
+2025-01-17,Tarde,EST-01,Falta de personal,27
+2025-01-17,Noche,EST-01,Cambio de formato,23
+2025-01-17,Noche,EST-01,Ajustes de calidad,13
+2025-01-17,Tarde,EST-02,Falla de máquina (espera mantención),80
+2025-01-17,Noche,EST-02,Falta de materia prima,52
+2025-01-17,Noche,EST-02,Falta de personal,29
+2025-01-17,Noche,EST-02,Falla de máquina (espera mantención),75
+2025-01-18,Mañana,EST-01,Falta de personal,39
+2025-01-18,Tarde,EST-01,Falta de materia prima,106
+2025-01-18,Mañana,EST-02,Falta de materia prima,94
+2025-01-18,Mañana,EST-02,Cambio de formato,25
+2025-01-18,Noche,EST-02,Cambio de formato,43
+2025-01-19,Mañana,EST-01,Ajustes de calidad,10
+2025-01-19,Tarde,EST-01,Cambio de formato,16
+2025-01-19,Mañana,EST-02,Cambio de formato,33
+2025-01-20,Tarde,EST-01,Falta de materia prima,63
+2025-01-20,Tarde,EST-01,Cambio de formato,38
+2025-01-20,Mañana,EST-02,Falta de materia prima,54
+2025-01-20,Tarde,EST-02,Falta de materia prima,58
+2025-01-20,Tarde,EST-02,Cambio de formato,29
+2025-01-20,Noche,EST-02,Falta de personal,73
+2025-01-21,Mañana,EST-01,Falta de materia prima,43
+2025-01-21,Tarde,EST-01,Cambio de formato,22
+2025-01-21,Tarde,EST-02,Cambio de formato,22
+2025-01-22,Mañana,EST-01,Falta de materia prima,110
+2025-01-22,Tarde,EST-01,Falla de máquina (espera mantención),97
+2025-01-23,Mañana,EST-01,Falta de personal,59
+2025-01-23,Mañana,EST-01,Falla de máquina (espera mantención),116
+2025-01-24,Mañana,EST-01,Falta de materia prima,120
+2025-01-24,Mañana,EST-01,Falla de máquina (espera mantención),21
+2025-01-25,Noche,EST-01,Falta de personal,22
+2025-01-25,Mañana,EST-02,Falta de materia prima,53
+2025-01-25,Tarde,EST-02,Falta de personal,86
+2025-01-25,Noche,EST-02,Falta de materia prima,33
+2025-01-26,Tarde,EST-01,Ajustes de calidad,21
+2025-01-26,Mañana,EST-02,Falta de materia prima,87
+2025-01-26,Tarde,EST-02,Falta de materia prima,28
+2025-01-26,Tarde,EST-02,Falta de personal,50
+2025-01-26,Noche,EST-02,Falla de máquina (espera mantención),115
+2025-01-27,Tarde,EST-01,Falta de materia prima,96
+2025-01-27,Mañana,EST-02,Falta de materia prima,28
+2025-01-27,Tarde,EST-02,Cambio de formato,31
+2025-01-28,Mañana,EST-01,Cambio de formato,16
+2025-01-28,Mañana,EST-01,Falta de personal,20
+2025-01-28,Tarde,EST-01,Ajustes de calidad,16
+2025-01-28,Mañana,EST-02,Ajustes de calidad,26
+2025-01-28,Tarde,EST-02,Ajustes de calidad,21
+2025-01-28,Tarde,EST-02,Falla de máquina (espera mantención),99
+2025-01-28,Noche,EST-02,Falla de máquina (espera mantención),143
+2025-01-29,Tarde,EST-02,Ajustes de calidad,19
+2025-01-30,Mañana,EST-01,Falta de materia prima,36
+2025-01-30,Tarde,EST-01,Falta de personal,43
+2025-01-30,Tarde,EST-02,Ajustes de calidad,33
+2025-01-31,Mañana,EST-01,Falla de máquina (espera mantención),99
+2025-01-31,Tarde,EST-01,Falta de materia prima,83
+2025-01-31,Tarde,EST-01,Ajustes de calidad,30
+2025-01-31,Noche,EST-01,Falta de materia prima,77
+2025-01-31,Tarde,EST-02,Falta de personal,33
+2025-01-31,Noche,EST-02,Ajustes de calidad,10
+2025-02-01,Mañana,EST-01,Ajustes de calidad,35
+2025-02-01,Tarde,EST-02,Falta de materia prima,93
+2025-02-01,Noche,EST-02,Falta de materia prima,27
+2025-02-02,Mañana,EST-01,Falta de materia prima,55
+2025-02-02,Mañana,EST-01,Cambio de formato,19
+2025-02-02,Tarde,EST-01,Falta de materia prima,71
+2025-02-02,Tarde,EST-02,Falta de materia prima,100
+2025-02-02,Tarde,EST-02,Cambio de formato,33
+2025-02-02,Noche,EST-02,Falta de personal,55
+2025-02-04,Mañana,EST-01,Falta de materia prima,59
+2025-02-04,Noche,EST-01,Falta de materia prima,47
+2025-02-04,Mañana,EST-02,Falta de materia prima,21
+2025-02-04,Noche,EST-02,Cambio de formato,28
+2025-02-04,Noche,EST-02,Falta de personal,61
+2025-02-05,Mañana,EST-01,Cambio de formato,29
+2025-02-05,Noche,EST-01,Falla de máquina (espera mantención),73
+2025-02-05,Mañana,EST-02,Falta de materia prima,94
+2025-02-05,Mañana,EST-02,Falla de máquina (espera mantención),90
+2025-02-05,Tarde,EST-02,Falta de materia prima,37
+2025-02-05,Noche,EST-02,Falla de máquina (espera mantención),124
+2025-02-06,Tarde,EST-01,Falta de materia prima,77
+2025-02-06,Mañana,EST-02,Falta de materia prima,61
+2025-02-06,Tarde,EST-02,Falta de materia prima,80
+2025-02-06,Noche,EST-02,Cambio de formato,23
+2025-02-07,Mañana,EST-01,Ajustes de calidad,36
+2025-02-07,Tarde,EST-01,Falta de materia prima,107
+2025-02-08,Noche,EST-01,Ajustes de calidad,24
+2025-02-08,Mañana,EST-02,Cambio de formato,25
+2025-02-08,Tarde,EST-02,Falla de máquina (espera mantención),44
+2025-02-09,Tarde,EST-01,Falta de materia prima,49
+2025-02-09,Tarde,EST-01,Cambio de formato,21
+2025-02-09,Tarde,EST-01,Ajustes de calidad,11
+2025-02-09,Tarde,EST-01,Falla de máquina (espera mantención),71
+2025-02-09,Tarde,EST-02,Ajustes de calidad,40
+2025-02-10,Mañana,EST-02,Falta de personal,49
+2025-02-10,Tarde,EST-02,Falla de máquina (espera mantención),78
+2025-02-10,Noche,EST-02,Cambio de formato,30
+2025-02-12,Mañana,EST-01,Falla de máquina (espera mantención),67
+2025-02-12,Tarde,EST-01,Falta de materia prima,89
+2025-02-12,Tarde,EST-01,Cambio de formato,17
+2025-02-12,Tarde,EST-01,Ajustes de calidad,10
+2025-02-12,Noche,EST-01,Cambio de formato,41
+2025-02-12,Noche,EST-01,Falla de máquina (espera mantención),60
+2025-02-12,Mañana,EST-02,Falta de materia prima,101
+2025-02-12,Tarde,EST-02,Falta de personal,66
+2025-02-13,Mañana,EST-01,Falta de personal,81
+2025-02-13,Tarde,EST-01,Ajustes de calidad,16
+2025-02-14,Tarde,EST-01,Ajustes de calidad,30
+2025-02-14,Tarde,EST-02,Cambio de formato,35
+2025-02-14,Noche,EST-02,Falta de materia prima,62
+2025-02-15,Tarde,EST-01,Ajustes de calidad,10
+2025-02-15,Mañana,EST-02,Falta de materia prima,57
+2025-02-15,Noche,EST-02,Falta de materia prima,64
+2025-02-16,Mañana,EST-01,Falta de materia prima,108
+2025-02-16,Tarde,EST-01,Ajustes de calidad,25
+2025-02-16,Noche,EST-01,Falta de materia prima,71
+2025-02-16,Tarde,EST-02,Falta de materia prima,88
+2025-02-17,Mañana,EST-01,Falta de materia prima,65
+2025-02-17,Mañana,EST-01,Cambio de formato,34
+2025-02-17,Mañana,EST-01,Falla de máquina (espera mantención),54
+2025-02-17,Tarde,EST-01,Falta de materia prima,55
+2025-02-17,Noche,EST-01,Falta de materia prima,48
+2025-02-17,Noche,EST-02,Falta de materia prima,87
+2025-02-17,Noche,EST-02,Falla de máquina (espera mantención),103
+2025-02-18,Mañana,EST-01,Falta de materia prima,97
+2025-02-18,Mañana,EST-02,Cambio de formato,43
+2025-02-18,Tarde,EST-02,Falta de materia prima,73
+2025-02-18,Tarde,EST-02,Ajustes de calidad,20
+2025-02-18,Noche,EST-02,Falta de materia prima,80
+2025-02-19,Tarde,EST-01,Cambio de formato,42
+2025-02-19,Mañana,EST-02,Ajustes de calidad,13
+2025-02-19,Tarde,EST-02,Falta de materia prima,105
+2025-02-20,Tarde,EST-01,Falta de materia prima,52
+2025-02-20,Noche,EST-01,Falta de materia prima,91
+2025-02-20,Mañana,EST-02,Falta de personal,73
+2025-02-21,Mañana,EST-01,Cambio de formato,17
+2025-02-21,Mañana,EST-01,Falta de personal,71
+2025-02-21,Mañana,EST-01,Ajustes de calidad,39
+2025-02-21,Noche,EST-01,Cambio de formato,37
+2025-02-21,Mañana,EST-02,Ajustes de calidad,39
+2025-02-21,Noche,EST-02,Cambio de formato,17
+2025-02-22,Mañana,EST-01,Falta de materia prima,52
+2025-02-22,Mañana,EST-01,Cambio de formato,20
+2025-02-22,Tarde,EST-01,Cambio de formato,24
+2025-02-22,Tarde,EST-01,Falta de personal,21
+2025-02-23,Mañana,EST-01,Falta de materia prima,31
+2025-02-23,Mañana,EST-01,Ajustes de calidad,11
+2025-02-23,Tarde,EST-01,Falta de personal,41
+2025-02-23,Noche,EST-02,Falta de materia prima,80
+2025-02-23,Noche,EST-02,Ajustes de calidad,14
+2025-02-24,Noche,EST-01,Falta de materia prima,110
+2025-02-24,Noche,EST-01,Falla de máquina (espera mantención),97
+2025-02-24,Tarde,EST-02,Falta de materia prima,105
+2025-02-24,Tarde,EST-02,Ajustes de calidad,26
+2025-02-25,Mañana,EST-01,Falta de personal,75
+2025-02-25,Tarde,EST-01,Falta de materia prima,34
+2025-02-25,Tarde,EST-01,Cambio de formato,22
+2025-02-25,Noche,EST-01,Cambio de formato,25
+2025-02-25,Mañana,EST-02,Falta de personal,64
+2025-02-25,Noche,EST-02,Falta de materia prima,88
+2025-02-26,Mañana,EST-01,Falta de materia prima,60
+2025-02-26,Noche,EST-01,Ajustes de calidad,27
+2025-02-26,Noche,EST-02,Falta de materia prima,44
+2025-02-26,Noche,EST-02,Falta de personal,38
+2025-02-27,Mañana,EST-01,Falta de personal,71
+2025-02-27,Noche,EST-01,Cambio de formato,18
+2025-02-27,Noche,EST-01,Ajustes de calidad,28
+2025-02-27,Mañana,EST-02,Falla de máquina (espera mantención),107
+2025-02-27,Noche,EST-02,Falta de materia prima,64
+2025-02-27,Noche,EST-02,Cambio de formato,29
+2025-02-28,Noche,EST-01,Ajustes de calidad,29
+2025-03-01,Mañana,EST-01,Ajustes de calidad,33
+2025-03-01,Tarde,EST-01,Falta de materia prima,42
+2025-03-01,Tarde,EST-01,Falla de máquina (espera mantención),59
+2025-03-01,Tarde,EST-02,Falta de materia prima,94
+2025-03-01,Noche,EST-02,Ajustes de calidad,30
+2025-03-02,Tarde,EST-01,Falta de materia prima,76
+2025-03-02,Noche,EST-01,Falta de personal,65
+2025-03-02,Tarde,EST-02,Falta de materia prima,91
+2025-03-03,Mañana,EST-01,Falla de máquina (espera mantención),113
+2025-03-03,Tarde,EST-01,Falta de materia prima,50
+2025-03-03,Noche,EST-01,Falla de máquina (espera mantención),117
+2025-03-03,Mañana,EST-02,Falla de máquina (espera mantención),65
+2025-03-03,Tarde,EST-02,Ajustes de calidad,34
+2025-03-04,Tarde,EST-01,Falta de personal,27
+2025-03-04,Tarde,EST-01,Falla de máquina (espera mantención),79
+2025-03-04,Noche,EST-01,Falta de materia prima,111
+2025-03-04,Noche,EST-01,Cambio de formato,20
+2025-03-04,Noche,EST-01,Falla de máquina (espera mantención),103
+2025-03-04,Mañana,EST-02,Falla de máquina (espera mantención),65
+2025-03-05,Mañana,EST-02,Cambio de formato,27
+2025-03-05,Tarde,EST-02,Falta de personal,49
+2025-03-05,Noche,EST-02,Falta de personal,28
+2025-03-05,Noche,EST-02,Ajustes de calidad,15
+2025-03-06,Mañana,EST-01,Falta de materia prima,61
+2025-03-06,Mañana,EST-02,Falta de materia prima,22
+2025-03-06,Tarde,EST-02,Falla de máquina (espera mantención),84
+2025-03-06,Noche,EST-02,Falta de materia prima,32
+2025-03-06,Noche,EST-02,Cambio de formato,35
+2025-03-07,Mañana,EST-01,Falta de materia prima,112
+2025-03-07,Tarde,EST-01,Falta de materia prima,76
+2025-03-07,Mañana,EST-02,Falla de máquina (espera mantención),30
+2025-03-08,Tarde,EST-01,Falta de materia prima,70
+2025-03-08,Tarde,EST-02,Falta de materia prima,26
+2025-03-08,Tarde,EST-02,Cambio de formato,38
+2025-03-09,Tarde,EST-01,Falta de personal,73
+2025-03-09,Noche,EST-01,Cambio de formato,24
+2025-03-09,Tarde,EST-02,Falta de materia prima,38
+2025-03-09,Noche,EST-02,Falta de materia prima,70
+2025-03-10,Mañana,EST-01,Falla de máquina (espera mantención),103
+2025-03-10,Noche,EST-01,Falta de materia prima,47
+2025-03-10,Tarde,EST-02,Falta de materia prima,52
+2025-03-11,Mañana,EST-01,Falta de materia prima,59
+2025-03-11,Tarde,EST-01,Falta de materia prima,120
+2025-03-11,Noche,EST-01,Cambio de formato,23
+2025-03-11,Mañana,EST-02,Falta de materia prima,47
+2025-03-11,Mañana,EST-02,Ajustes de calidad,32
+2025-03-11,Tarde,EST-02,Falta de materia prima,67
+2025-03-11,Tarde,EST-02,Cambio de formato,45
+2025-03-11,Noche,EST-02,Falta de materia prima,54
+2025-03-12,Mañana,EST-01,Falta de materia prima,20
+2025-03-12,Noche,EST-01,Falla de máquina (espera mantención),66
+2025-03-12,Mañana,EST-02,Falla de máquina (espera mantención),103
+2025-03-12,Tarde,EST-02,Falta de materia prima,78
+2025-03-12,Tarde,EST-02,Falta de personal,40
+2025-03-12,Noche,EST-02,Cambio de formato,32
+2025-03-13,Mañana,EST-01,Cambio de formato,19
+2025-03-13,Mañana,EST-01,Falta de personal,35
+2025-03-13,Mañana,EST-01,Ajustes de calidad,13
+2025-03-13,Tarde,EST-01,Cambio de formato,41
+2025-03-13,Tarde,EST-01,Ajustes de calidad,33
+2025-03-13,Mañana,EST-02,Ajustes de calidad,14
+2025-03-13,Mañana,EST-02,Falla de máquina (espera mantención),83
+2025-03-13,Noche,EST-02,Falta de materia prima,72
+2025-03-14,Mañana,EST-01,Falta de materia prima,115
+2025-03-14,Mañana,EST-01,Cambio de formato,30
+2025-03-14,Mañana,EST-01,Ajustes de calidad,35
+2025-03-14,Tarde,EST-01,Cambio de formato,24
+2025-03-14,Noche,EST-01,Cambio de formato,44
+2025-03-14,Mañana,EST-02,Ajustes de calidad,39
+2025-03-14,Tarde,EST-02,Falta de materia prima,36
+2025-03-15,Mañana,EST-01,Cambio de formato,20
+2025-03-15,Tarde,EST-01,Falta de materia prima,67
+2025-03-15,Tarde,EST-01,Cambio de formato,33
+2025-03-15,Noche,EST-01,Falta de materia prima,39
+2025-03-15,Noche,EST-01,Cambio de formato,37
+2025-03-15,Noche,EST-01,Falla de máquina (espera mantención),71
+2025-03-15,Tarde,EST-02,Falta de materia prima,28
+2025-03-15,Noche,EST-02,Ajustes de calidad,17
+2025-03-16,Mañana,EST-01,Ajustes de calidad,26
+2025-03-16,Mañana,EST-02,Falta de personal,28
+2025-03-16,Tarde,EST-02,Falta de materia prima,86
+2025-03-16,Noche,EST-02,Falta de materia prima,112
+2025-03-17,Mañana,EST-01,Falta de personal,37
+2025-03-17,Tarde,EST-01,Cambio de formato,37
+2025-03-17,Noche,EST-01,Ajustes de calidad,34
+2025-03-17,Mañana,EST-02,Falla de máquina (espera mantención),92
+2025-03-18,Mañana,EST-01,Cambio de formato,35
+2025-03-18,Noche,EST-01,Cambio de formato,15
+2025-03-18,Mañana,EST-02,Ajustes de calidad,11
+2025-03-19,Tarde,EST-01,Falta de personal,87
+2025-03-20,Mañana,EST-01,Cambio de formato,41
+2025-03-21,Noche,EST-02,Ajustes de calidad,25
+2025-03-22,Tarde,EST-01,Falta de materia prima,34
+2025-03-22,Mañana,EST-02,Falla de máquina (espera mantención),91
+2025-03-22,Tarde,EST-02,Falta de personal,28
+2025-03-22,Tarde,EST-02,Falla de máquina (espera mantención),80
+2025-03-22,Noche,EST-02,Falta de materia prima,102
+2025-03-23,Mañana,EST-01,Falta de materia prima,109
+2025-03-23,Mañana,EST-01,Falta de personal,49
+2025-03-23,Tarde,EST-01,Falta de materia prima,45
+2025-03-23,Mañana,EST-02,Falta de materia prima,62
+2025-03-24,Mañana,EST-01,Falta de personal,25
+2025-03-25,Noche,EST-01,Falta de materia prima,35
+2025-03-25,Noche,EST-01,Ajustes de calidad,19
+2025-03-25,Noche,EST-01,Falla de máquina (espera mantención),116
+2025-03-25,Tarde,EST-02,Cambio de formato,22
+2025-03-25,Noche,EST-02,Falta de materia prima,56
+2025-03-26,Mañana,EST-01,Cambio de formato,31
+2025-03-26,Tarde,EST-01,Falta de personal,39
+2025-03-26,Mañana,EST-02,Falta de materia prima,40
+2025-03-26,Tarde,EST-02,Ajustes de calidad,26
+2025-03-27,Mañana,EST-01,Falta de personal,71
+2025-03-27,Mañana,EST-02,Ajustes de calidad,10
+2025-03-27,Mañana,EST-02,Falla de máquina (espera mantención),84
+2025-03-27,Noche,EST-02,Falta de materia prima,67
+2025-03-27,Noche,EST-02,Cambio de formato,33
+2025-03-27,Noche,EST-02,Ajustes de calidad,40
+2025-03-28,Mañana,EST-01,Falla de máquina (espera mantención),33
+2025-03-28,Tarde,EST-01,Falta de materia prima,71
+2025-03-28,Noche,EST-01,Cambio de formato,19
+2025-03-29,Tarde,EST-01,Falta de materia prima,81
+2025-03-29,Noche,EST-01,Falta de materia prima,70
+2025-03-29,Tarde,EST-02,Ajustes de calidad,11
+2025-03-29,Noche,EST-02,Falta de materia prima,59
+2025-03-30,Mañana,EST-01,Cambio de formato,45
+2025-03-30,Mañana,EST-01,Ajustes de calidad,26
+2025-03-30,Noche,EST-01,Falta de materia prima,63
+2025-03-30,Mañana,EST-02,Falta de personal,35
+2025-03-30,Mañana,EST-02,Ajustes de calidad,36
+2025-03-30,Noche,EST-02,Falta de materia prima,65
+2025-03-31,Mañana,EST-01,Ajustes de calidad,20
+2025-04-01,Noche,EST-01,Falta de personal,71
+2025-04-01,Tarde,EST-02,Falta de personal,67
+2025-04-01,Tarde,EST-02,Ajustes de calidad,15
+2025-04-01,Noche,EST-02,Falta de materia prima,40
+2025-04-02,Mañana,EST-01,Ajustes de calidad,20
+2025-04-03,Mañana,EST-01,Falta de personal,27
+2025-04-03,Tarde,EST-01,Cambio de formato,36
+2025-04-03,Tarde,EST-01,Ajustes de calidad,31
+2025-04-03,Noche,EST-01,Falla de máquina (espera mantención),88
+2025-04-03,Noche,EST-02,Cambio de formato,28
+2025-04-03,Noche,EST-02,Ajustes de calidad,39
+2025-04-03,Noche,EST-02,Falla de máquina (espera mantención),118
+2025-04-04,Mañana,EST-01,Cambio de formato,30
+2025-04-04,Mañana,EST-01,Falla de máquina (espera mantención),88
+2025-04-04,Tarde,EST-01,Falla de máquina (espera mantención),87
+2025-04-04,Mañana,EST-02,Falta de personal,73
+2025-04-04,Tarde,EST-02,Falta de materia prima,53
+2025-04-04,Noche,EST-02,Falta de materia prima,76
+2025-04-05,Noche,EST-01,Falta de materia prima,37
+2025-04-05,Noche,EST-02,Ajustes de calidad,40
+2025-04-06,Mañana,EST-01,Falta de materia prima,55
+2025-04-06,Tarde,EST-01,Falta de materia prima,96
+2025-04-06,Noche,EST-01,Falla de máquina (espera mantención),118
+2025-04-06,Noche,EST-02,Falta de materia prima,79
+2025-04-06,Noche,EST-02,Ajustes de calidad,10
+2025-04-07,Mañana,EST-01,Cambio de formato,37
+2025-04-07,Mañana,EST-01,Falla de máquina (espera mantención),124
+2025-04-07,Tarde,EST-01,Cambio de formato,15
+2025-04-07,Noche,EST-01,Falla de máquina (espera mantención),122
+2025-04-07,Noche,EST-02,Cambio de formato,18
+2025-04-08,Mañana,EST-01,Falta de materia prima,93
+2025-04-08,Mañana,EST-01,Cambio de formato,42
+2025-04-08,Mañana,EST-02,Ajustes de calidad,28
+2025-04-08,Tarde,EST-02,Falla de máquina (espera mantención),43
+2025-04-08,Noche,EST-02,Falta de personal,39
+2025-04-08,Noche,EST-02,Ajustes de calidad,31
+2025-04-09,Noche,EST-01,Falta de personal,56
+2025-04-10,Mañana,EST-01,Falta de materia prima,56
+2025-04-11,Tarde,EST-02,Cambio de formato,35
+2025-04-11,Tarde,EST-02,Ajustes de calidad,15
+2025-04-11,Noche,EST-02,Falta de materia prima,22
+2025-04-12,Mañana,EST-01,Falta de materia prima,67
+2025-04-12,Noche,EST-01,Falta de materia prima,88
+2025-04-12,Mañana,EST-02,Ajustes de calidad,35
+2025-04-13,Tarde,EST-02,Falta de materia prima,69
+2025-04-13,Noche,EST-02,Falla de máquina (espera mantención),103
+2025-04-14,Mañana,EST-01,Falta de materia prima,32
+2025-04-14,Mañana,EST-01,Falta de personal,20
+2025-04-14,Tarde,EST-01,Falla de máquina (espera mantención),56
+2025-04-14,Noche,EST-01,Falta de materia prima,120
+2025-04-14,Tarde,EST-02,Ajustes de calidad,27
+2025-04-15,Noche,EST-01,Cambio de formato,41
+2025-04-15,Noche,EST-02,Falta de materia prima,49
+2025-04-16,Mañana,EST-01,Ajustes de calidad,20
+2025-04-16,Tarde,EST-01,Falta de personal,29
+2025-04-16,Tarde,EST-01,Ajustes de calidad,26
+2025-04-16,Noche,EST-01,Falta de materia prima,64
+2025-04-16,Mañana,EST-02,Cambio de formato,43
+2025-04-16,Tarde,EST-02,Falta de materia prima,114
+2025-04-16,Noche,EST-02,Falta de materia prima,21
+2025-04-16,Noche,EST-02,Cambio de formato,28
+2025-04-16,Noche,EST-02,Falta de personal,54
+2025-04-16,Noche,EST-02,Ajustes de calidad,23
+2025-04-17,Tarde,EST-01,Falta de personal,73
+2025-04-17,Tarde,EST-02,Falla de máquina (espera mantención),86
+2025-04-18,Tarde,EST-01,Falta de personal,39
+2025-04-18,Tarde,EST-01,Ajustes de calidad,35
+2025-04-18,Noche,EST-01,Falta de materia prima,32
+2025-04-18,Tarde,EST-02,Falta de personal,59
+2025-04-18,Noche,EST-02,Cambio de formato,23
+2025-04-19,Mañana,EST-01,Falta de materia prima,72
+2025-04-19,Tarde,EST-01,Cambio de formato,36
+2025-04-19,Noche,EST-01,Falta de materia prima,30
+2025-04-20,Mañana,EST-02,Falla de máquina (espera mantención),47
+2025-04-20,Noche,EST-02,Falta de materia prima,90
+2025-04-21,Mañana,EST-01,Falta de materia prima,90
+2025-04-21,Mañana,EST-01,Falla de máquina (espera mantención),107
+2025-04-21,Tarde,EST-01,Falta de personal,31
+2025-04-22,Tarde,EST-01,Falta de materia prima,117
+2025-04-22,Mañana,EST-02,Falta de personal,71
+2025-04-22,Mañana,EST-02,Ajustes de calidad,36
+2025-04-22,Mañana,EST-02,Falla de máquina (espera mantención),81
+2025-04-23,Tarde,EST-01,Cambio de formato,41
+2025-04-24,Tarde,EST-01,Falta de personal,82
+2025-04-24,Mañana,EST-02,Ajustes de calidad,29
+2025-04-24,Tarde,EST-02,Ajustes de calidad,29
+2025-04-25,Mañana,EST-01,Falta de materia prima,64
+2025-04-25,Noche,EST-01,Falta de materia prima,119
+2025-04-25,Noche,EST-01,Falta de personal,53
+2025-04-25,Noche,EST-01,Ajustes de calidad,23
+2025-04-25,Tarde,EST-02,Cambio de formato,25
+2025-04-25,Noche,EST-02,Falta de materia prima,110
+2025-04-25,Noche,EST-02,Falta de personal,23
+2025-04-26,Mañana,EST-01,Falta de materia prima,44
+2025-04-26,Mañana,EST-01,Cambio de formato,35
+2025-04-26,Mañana,EST-01,Ajustes de calidad,32
+2025-04-26,Tarde,EST-01,Cambio de formato,31
+2025-04-26,Mañana,EST-02,Falta de materia prima,119
+2025-04-26,Mañana,EST-02,Falta de personal,23
+2025-04-26,Mañana,EST-02,Ajustes de calidad,37
+2025-04-26,Tarde,EST-02,Ajustes de calidad,23
+2025-04-26,Noche,EST-02,Cambio de formato,28
+2025-04-27,Mañana,EST-01,Falta de materia prima,30
+2025-04-27,Tarde,EST-01,Falta de materia prima,59
+2025-04-27,Noche,EST-01,Falla de máquina (espera mantención),98
+2025-04-28,Mañana,EST-02,Falla de máquina (espera mantención),105
+2025-04-28,Tarde,EST-02,Cambio de formato,18
+2025-04-29,Tarde,EST-01,Falta de materia prima,113
+2025-04-29,Noche,EST-01,Falta de materia prima,80
+2025-04-29,Mañana,EST-02,Cambio de formato,34
+2025-04-29,Mañana,EST-02,Falla de máquina (espera mantención),64
+2025-04-29,Tarde,EST-02,Falta de materia prima,107
+2025-04-30,Tarde,EST-01,Cambio de formato,33
+2025-04-30,Mañana,EST-02,Falta de materia prima,80
+2025-05-01,Mañana,EST-01,Falta de materia prima,96
+2025-05-01,Tarde,EST-01,Cambio de formato,22
+2025-05-01,Noche,EST-01,Cambio de formato,43
+2025-05-01,Tarde,EST-02,Falta de materia prima,114
+2025-05-02,Tarde,EST-01,Falta de materia prima,33
+2025-05-02,Tarde,EST-01,Ajustes de calidad,11
+2025-05-02,Noche,EST-01,Cambio de formato,43
+2025-05-02,Noche,EST-01,Falla de máquina (espera mantención),64
+2025-05-02,Mañana,EST-02,Falta de materia prima,72
+2025-05-02,Mañana,EST-02,Falla de máquina (espera mantención),120
+2025-05-03,Mañana,EST-01,Falta de materia prima,105
+2025-05-03,Tarde,EST-01,Ajustes de calidad,15
+2025-05-03,Noche,EST-01,Falta de materia prima,40
+2025-05-03,Noche,EST-02,Falta de personal,89
+2025-05-04,Tarde,EST-01,Falta de materia prima,53
+2025-05-04,Noche,EST-01,Falta de materia prima,55
+2025-05-04,Noche,EST-01,Ajustes de calidad,18
+2025-05-04,Mañana,EST-02,Falta de materia prima,37
+2025-05-04,Mañana,EST-02,Falla de máquina (espera mantención),48
+2025-05-04,Tarde,EST-02,Falta de materia prima,30
+2025-05-05,Mañana,EST-01,Falta de personal,89
+2025-05-05,Tarde,EST-01,Ajustes de calidad,18
+2025-05-05,Noche,EST-01,Falta de materia prima,110
+2025-05-05,Noche,EST-01,Falla de máquina (espera mantención),49
+2025-05-05,Mañana,EST-02,Falta de materia prima,35
+2025-05-05,Mañana,EST-02,Ajustes de calidad,23
+2025-05-05,Tarde,EST-02,Cambio de formato,42
+2025-05-05,Noche,EST-02,Falta de materia prima,81
+2025-05-05,Noche,EST-02,Falta de personal,80
+2025-05-06,Noche,EST-01,Falta de materia prima,31
+2025-05-06,Mañana,EST-02,Cambio de formato,16
+2025-05-07,Mañana,EST-01,Cambio de formato,21
+2025-05-07,Mañana,EST-01,Falta de personal,65
+2025-05-07,Noche,EST-01,Falta de materia prima,39
+2025-05-07,Noche,EST-01,Ajustes de calidad,39
+2025-05-07,Mañana,EST-02,Cambio de formato,38
+2025-05-07,Tarde,EST-02,Falta de materia prima,60
+2025-05-07,Tarde,EST-02,Ajustes de calidad,16
+2025-05-07,Noche,EST-02,Falta de materia prima,87
+2025-05-08,Mañana,EST-01,Falta de materia prima,109
+2025-05-08,Noche,EST-01,Cambio de formato,15
+2025-05-08,Tarde,EST-02,Falta de materia prima,38
+2025-05-08,Tarde,EST-02,Cambio de formato,22
+2025-05-09,Mañana,EST-01,Falta de materia prima,112
+2025-05-09,Mañana,EST-01,Cambio de formato,36
+2025-05-09,Noche,EST-02,Cambio de formato,36
+2025-05-10,Mañana,EST-01,Falta de materia prima,53
+2025-05-10,Tarde,EST-01,Falta de materia prima,55
+2025-05-10,Noche,EST-01,Ajustes de calidad,38
+2025-05-10,Tarde,EST-02,Falta de materia prima,108
+2025-05-10,Tarde,EST-02,Cambio de formato,44
+2025-05-10,Tarde,EST-02,Falla de máquina (espera mantención),87
+2025-05-11,Tarde,EST-01,Cambio de formato,39
+2025-05-11,Mañana,EST-02,Falta de materia prima,59
+2025-05-11,Mañana,EST-02,Ajustes de calidad,18
+2025-05-11,Tarde,EST-02,Cambio de formato,36
+2025-05-11,Noche,EST-02,Falta de materia prima,98
+2025-05-11,Noche,EST-02,Cambio de formato,39
+2025-05-12,Mañana,EST-01,Falta de materia prima,100
+2025-05-12,Noche,EST-02,Falta de materia prima,67
+2025-05-12,Noche,EST-02,Cambio de formato,23
+2025-05-13,Mañana,EST-01,Cambio de formato,31
+2025-05-13,Mañana,EST-01,Falla de máquina (espera mantención),97
+2025-05-13,Tarde,EST-01,Falta de materia prima,63
+2025-05-13,Noche,EST-01,Ajustes de calidad,32
+2025-05-13,Tarde,EST-02,Falta de personal,58
+2025-05-14,Mañana,EST-01,Ajustes de calidad,28
+2025-05-14,Mañana,EST-01,Falla de máquina (espera mantención),102
+2025-05-14,Noche,EST-01,Falta de materia prima,77
+2025-05-14,Noche,EST-01,Cambio de formato,45
+2025-05-14,Mañana,EST-02,Falla de máquina (espera mantención),134
+2025-05-14,Tarde,EST-02,Cambio de formato,19
+2025-05-14,Tarde,EST-02,Falta de personal,84
+2025-05-14,Noche,EST-02,Falta de personal,90
+2025-05-15,Mañana,EST-01,Falta de materia prima,52
+2025-05-15,Tarde,EST-01,Falta de materia prima,46
+2025-05-15,Tarde,EST-01,Cambio de formato,35
+2025-05-15,Mañana,EST-02,Cambio de formato,32
+2025-05-15,Mañana,EST-02,Falta de personal,21
+2025-05-15,Tarde,EST-02,Falta de materia prima,38
+2025-05-15,Tarde,EST-02,Ajustes de calidad,13
+2025-05-16,Mañana,EST-01,Ajustes de calidad,27
+2025-05-16,Noche,EST-01,Falta de materia prima,24
+2025-05-16,Mañana,EST-02,Falla de máquina (espera mantención),43
+2025-05-16,Tarde,EST-02,Cambio de formato,26
+2025-05-16,Tarde,EST-02,Falla de máquina (espera mantención),62
+2025-05-17,Mañana,EST-01,Ajustes de calidad,24
+2025-05-17,Noche,EST-01,Cambio de formato,34
+2025-05-17,Noche,EST-01,Ajustes de calidad,18
+2025-05-17,Noche,EST-02,Ajustes de calidad,10
+2025-05-18,Mañana,EST-01,Falta de materia prima,28
+2025-05-18,Tarde,EST-01,Falta de materia prima,93
+2025-05-18,Tarde,EST-01,Falta de personal,27
+2025-05-18,Mañana,EST-02,Cambio de formato,27
+2025-05-18,Mañana,EST-02,Ajustes de calidad,25
+2025-05-18,Tarde,EST-02,Falta de materia prima,95
+2025-05-18,Noche,EST-02,Cambio de formato,32
+2025-05-19,Noche,EST-01,Falta de materia prima,71
+2025-05-19,Noche,EST-01,Cambio de formato,22
+2025-05-19,Tarde,EST-02,Falta de materia prima,114
+2025-05-19,Tarde,EST-02,Ajustes de calidad,23
+2025-05-19,Noche,EST-02,Cambio de formato,36
+2025-05-19,Noche,EST-02,Falta de personal,77
+2025-05-20,Mañana,EST-01,Falla de máquina (espera mantención),81
+2025-05-20,Tarde,EST-01,Falta de materia prima,66
+2025-05-20,Mañana,EST-02,Falta de materia prima,63
+2025-05-20,Noche,EST-02,Falta de materia prima,117
+2025-05-21,Mañana,EST-01,Falta de materia prima,44
+2025-05-22,Mañana,EST-02,Falta de materia prima,58
+2025-05-22,Mañana,EST-02,Cambio de formato,43
+2025-05-22,Noche,EST-02,Falta de materia prima,118
+2025-05-22,Noche,EST-02,Cambio de formato,17
+2025-05-23,Mañana,EST-01,Falta de materia prima,72
+2025-05-23,Mañana,EST-01,Cambio de formato,27
+2025-05-23,Tarde,EST-01,Falta de materia prima,96
+2025-05-23,Noche,EST-01,Falta de materia prima,112
+2025-05-23,Noche,EST-01,Cambio de formato,15
+2025-05-23,Mañana,EST-02,Falta de materia prima,79
+2025-05-24,Mañana,EST-02,Falta de materia prima,112
+2025-05-24,Tarde,EST-02,Ajustes de calidad,18
+2025-05-24,Noche,EST-02,Falta de materia prima,120
+2025-05-24,Noche,EST-02,Falta de personal,66
+2025-05-25,Mañana,EST-01,Falla de máquina (espera mantención),85
+2025-05-25,Mañana,EST-02,Ajustes de calidad,23
+2025-05-25,Tarde,EST-02,Falta de personal,55
+2025-05-25,Tarde,EST-02,Falla de máquina (espera mantención),108
+2025-05-26,Noche,EST-01,Falta de materia prima,65
+2025-05-26,Noche,EST-02,Falta de personal,22
+2025-05-27,Tarde,EST-01,Cambio de formato,44
+2025-05-27,Noche,EST-01,Ajustes de calidad,25
+2025-05-27,Mañana,EST-02,Cambio de formato,37
+2025-05-27,Tarde,EST-02,Falta de materia prima,45
+2025-05-27,Tarde,EST-02,Falta de personal,20
+2025-05-27,Noche,EST-02,Falta de personal,64
+2025-05-28,Mañana,EST-01,Ajustes de calidad,37
+2025-05-28,Tarde,EST-01,Cambio de formato,15
+2025-05-28,Tarde,EST-01,Falta de personal,25
+2025-05-29,Tarde,EST-01,Falla de máquina (espera mantención),73
+2025-05-29,Noche,EST-01,Falta de materia prima,93
+2025-05-29,Noche,EST-01,Cambio de formato,25
+2025-05-30,Mañana,EST-01,Cambio de formato,22
+2025-05-30,Tarde,EST-01,Cambio de formato,23
+2025-05-30,Tarde,EST-01,Ajustes de calidad,38
+2025-05-30,Noche,EST-01,Cambio de formato,33
+2025-05-30,Noche,EST-01,Falta de personal,88
+2025-05-30,Noche,EST-01,Ajustes de calidad,12
+2025-05-30,Mañana,EST-02,Cambio de formato,28
+2025-05-30,Tarde,EST-02,Ajustes de calidad,18
+2025-06-01,Tarde,EST-01,Falta de personal,74
+2025-06-01,Tarde,EST-01,Falla de máquina (espera mantención),77
+2025-06-01,Tarde,EST-02,Falta de materia prima,78
+2025-06-02,Mañana,EST-01,Falta de materia prima,53
+2025-06-02,Tarde,EST-01,Falta de materia prima,41
+2025-06-02,Noche,EST-01,Falta de materia prima,62
+2025-06-02,Noche,EST-01,Cambio de formato,30
+2025-06-02,Tarde,EST-02,Ajustes de calidad,33
+2025-06-02,Noche,EST-02,Falta de materia prima,41
+2025-06-03,Mañana,EST-02,Falta de materia prima,54
+2025-06-04,Noche,EST-01,Falta de materia prima,46
+2025-06-04,Noche,EST-01,Ajustes de calidad,38
+2025-06-04,Noche,EST-02,Falla de máquina (espera mantención),127
+2025-06-05,Noche,EST-01,Cambio de formato,32
+2025-06-05,Noche,EST-01,Falta de personal,60
+2025-06-05,Noche,EST-01,Ajustes de calidad,26
+2025-06-05,Mañana,EST-02,Falta de materia prima,103
+2025-06-05,Mañana,EST-02,Falta de personal,88
+2025-06-05,Mañana,EST-02,Ajustes de calidad,11
+2025-06-05,Tarde,EST-02,Cambio de formato,32
+2025-06-05,Noche,EST-02,Falta de materia prima,80
+2025-06-06,Mañana,EST-01,Falla de máquina (espera mantención),85
+2025-06-06,Noche,EST-01,Cambio de formato,22
+2025-06-06,Mañana,EST-02,Falta de materia prima,27
+2025-06-06,Mañana,EST-02,Cambio de formato,23
+2025-06-06,Noche,EST-02,Falta de materia prima,65
+2025-06-06,Noche,EST-02,Cambio de formato,45
+2025-06-07,Noche,EST-01,Falta de materia prima,99
+2025-06-07,Noche,EST-02,Cambio de formato,15
+2025-06-09,Mañana,EST-01,Falta de materia prima,37
+2025-06-09,Noche,EST-01,Falta de materia prima,70
+2025-06-09,Mañana,EST-02,Falta de materia prima,89
+2025-06-09,Tarde,EST-02,Ajustes de calidad,27
+2025-06-09,Noche,EST-02,Cambio de formato,42
+2025-06-10,Mañana,EST-01,Cambio de formato,20
+2025-06-10,Tarde,EST-01,Falta de materia prima,35
+2025-06-10,Tarde,EST-01,Cambio de formato,31
+2025-06-10,Tarde,EST-01,Ajustes de calidad,32
+2025-06-10,Noche,EST-02,Falla de máquina (espera mantención),77
+2025-06-11,Mañana,EST-01,Ajustes de calidad,10
+2025-06-11,Mañana,EST-02,Falta de materia prima,93
+2025-06-11,Mañana,EST-02,Cambio de formato,19
+2025-06-11,Tarde,EST-02,Falta de materia prima,38
+2025-06-11,Noche,EST-02,Falta de materia prima,57
+2025-06-12,Mañana,EST-01,Falta de personal,77
+2025-06-12,Noche,EST-01,Cambio de formato,39
+2025-06-12,Noche,EST-01,Falta de personal,54
+2025-06-12,Noche,EST-02,Falta de personal,47
+2025-06-13,Mañana,EST-01,Falta de materia prima,52
+2025-06-13,Mañana,EST-01,Cambio de formato,19
+2025-06-13,Tarde,EST-01,Cambio de formato,15
+2025-06-13,Noche,EST-01,Falta de materia prima,47
+2025-06-13,Noche,EST-01,Cambio de formato,44
+2025-06-13,Noche,EST-02,Cambio de formato,20
+2025-06-13,Noche,EST-02,Falta de personal,55
+2025-06-13,Noche,EST-02,Falla de máquina (espera mantención),49
+2025-06-14,Tarde,EST-01,Falta de personal,35
+2025-06-14,Mañana,EST-02,Ajustes de calidad,26
+2025-06-14,Tarde,EST-02,Falta de materia prima,39
+2025-06-14,Noche,EST-02,Cambio de formato,42
+2025-06-14,Noche,EST-02,Ajustes de calidad,10
+2025-06-15,Mañana,EST-01,Falla de máquina (espera mantención),118
+2025-06-15,Tarde,EST-01,Falta de materia prima,84
+2025-06-15,Noche,EST-01,Falta de materia prima,51
+2025-06-15,Noche,EST-01,Falla de máquina (espera mantención),111
+2025-06-15,Mañana,EST-02,Falta de materia prima,114
+2025-06-15,Noche,EST-02,Falla de máquina (espera mantención),75
+2025-06-16,Mañana,EST-01,Cambio de formato,39
+2025-06-16,Tarde,EST-01,Falta de materia prima,27
+2025-06-16,Noche,EST-02,Ajustes de calidad,25
+2025-06-17,Noche,EST-01,Falta de materia prima,51
+2025-06-17,Tarde,EST-02,Falta de personal,82
+2025-06-17,Noche,EST-02,Cambio de formato,21
+2025-06-17,Noche,EST-02,Falta de personal,45
+2025-06-18,Tarde,EST-01,Falta de materia prima,80
+2025-06-19,Mañana,EST-01,Falta de materia prima,120
+2025-06-19,Mañana,EST-01,Cambio de formato,45
+2025-06-19,Mañana,EST-01,Falta de personal,49
+2025-06-19,Noche,EST-01,Ajustes de calidad,32
+2025-06-19,Mañana,EST-02,Falta de materia prima,112
+2025-06-19,Mañana,EST-02,Cambio de formato,25
+2025-06-19,Tarde,EST-02,Falta de materia prima,58
+2025-06-19,Noche,EST-02,Falla de máquina (espera mantención),82
+2025-06-20,Tarde,EST-01,Falta de materia prima,76
+2025-06-20,Noche,EST-01,Falta de materia prima,117
+2025-06-20,Noche,EST-02,Falta de materia prima,87
+2025-06-21,Mañana,EST-01,Falta de materia prima,66
+2025-06-21,Mañana,EST-01,Cambio de formato,15
+2025-06-21,Tarde,EST-01,Falta de materia prima,74
+2025-06-21,Noche,EST-01,Falta de materia prima,99
+2025-06-21,Mañana,EST-02,Cambio de formato,35
+2025-06-21,Noche,EST-02,Falta de materia prima,39
+2025-06-22,Tarde,EST-01,Falla de máquina (espera mantención),70
+2025-06-22,Tarde,EST-02,Falta de materia prima,111
+2025-06-22,Noche,EST-02,Falta de materia prima,109
+2025-06-23,Mañana,EST-01,Falta de materia prima,108
+2025-06-23,Mañana,EST-02,Falta de materia prima,113
+2025-06-23,Mañana,EST-02,Cambio de formato,39
+2025-06-23,Noche,EST-02,Falta de personal,52
+2025-06-23,Noche,EST-02,Ajustes de calidad,28
+2025-06-24,Mañana,EST-01,Falta de materia prima,24
+2025-06-24,Tarde,EST-01,Falta de materia prima,91
+2025-06-24,Noche,EST-01,Ajustes de calidad,38
+2025-06-24,Mañana,EST-02,Falta de materia prima,38
+2025-06-24,Tarde,EST-02,Ajustes de calidad,13
+2025-06-25,Mañana,EST-01,Falta de materia prima,53
+2025-06-25,Mañana,EST-02,Ajustes de calidad,35
+2025-06-25,Noche,EST-02,Ajustes de calidad,38
+2025-06-26,Mañana,EST-01,Falta de materia prima,98
+2025-06-26,Noche,EST-01,Falta de personal,36
+2025-06-26,Mañana,EST-02,Falta de materia prima,52
+2025-06-26,Mañana,EST-02,Cambio de formato,44
+2025-06-26,Tarde,EST-02,Ajustes de calidad,21
+2025-06-27,Tarde,EST-01,Falla de máquina (espera mantención),65
+2025-06-27,Noche,EST-01,Falta de materia prima,84
+2025-06-27,Tarde,EST-02,Ajustes de calidad,28
+2025-06-28,Tarde,EST-01,Cambio de formato,22
+2025-06-28,Noche,EST-01,Falta de materia prima,22
+2025-06-28,Noche,EST-02,Falla de máquina (espera mantención),109
+2025-06-29,Mañana,EST-02,Falta de materia prima,61
+2025-06-29,Mañana,EST-02,Falta de personal,20
+2025-06-29,Mañana,EST-02,Ajustes de calidad,36
+2025-06-29,Tarde,EST-02,Falta de materia prima,94
+2025-06-30,Mañana,EST-02,Cambio de formato,20
