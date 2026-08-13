@@ -48,10 +48,10 @@ Implementar un esquema de **mantención preventiva** reduciría significativamen
 ## Estructura del Proyecto
 
 oee-manufacturing-analysis/
-├── generar_datos_oee.py # Script para generar datos simulados realistas
-├── produccion.csv # Dataset: registros por turno-estación (1.086 filas)
-├── paradas.csv # Dataset: eventos de parada con causas (749 filas)
-└── README.md # Este archivo
+├── generar_datos_oee.py     # Script para generar datos simulados realistas
+├── produccion.csv           # Dataset: registros por turno-estación (1.086 filas)
+├── paradas.csv              # Dataset: eventos de parada con causas (749 filas)
+└── README.md                # Este archivo
 
 ## Requisitos
 
