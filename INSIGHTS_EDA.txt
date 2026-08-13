@@ -1,0 +1,58 @@
+======================================================================
+ANÁLISIS EXPLORATORIO DE DATOS (EDA) - OEE
+======================================================================
+
+1. EFICIENCIA GLOBAL
+----------------------------------------------------------------------
+   OEE Promedio: 79.9%
+   Disponibilidad: 92.4%
+   Rendimiento: 88.8%
+   Calidad: 97.3%
+
+2. VARIABILIDAD POR ESTACIÓN
+----------------------------------------------------------------------
+   EST-01: OEE 80.0% (σ=9.4%)
+   EST-02: OEE 79.8% (σ=9.5%)
+
+3. IMPACTO DE MANTENCIÓN
+----------------------------------------------------------------------
+   OEE máquinas recién mantenidas (0-15 días): 81.8%
+   OEE máquinas envejecidas (31+ días): 68.4%
+   Diferencia: 13.4%
+   → RECOMENDACIÓN: Implementar mantención preventiva
+
+4. CAUSAS PRINCIPALES DE PARADA
+----------------------------------------------------------------------
+   Falta de materia prima: 18,801 min (47.5%)
+   Falla de máquina (espera mantención): 8,016 min (20.2%)
+   Falta de personal: 4,894 min (12.4%)
+
+5. TURNO CON MEJOR RENDIMIENTO
+----------------------------------------------------------------------
+   Tarde: 80.3%
+   Mañana: 80.0%
+   Noche: 79.4%
+
+6. CORRELACIONES CLAVE
+----------------------------------------------------------------------
+   Correlación (días sin mantención ↔ OEE): -0.395
+   Correlación (minutos parada ↔ OEE): -0.925
+
+======================================================================
+CONCLUSIÓN
+======================================================================
+
+El análisis demuestra que:
+
+• La planta opera con un OEE de 79.9%, por debajo del estándar 
+  de clase mundial (85%).
+
+• El factor limitante principal es la DISPONIBILIDAD (92.4%), 
+  afectada por desabastecimiento de materia prima.
+
+• Las máquinas sin mantención preventiva tienen 1.2x más riesgo 
+  de falla que las recién mantenidas, generando pérdidas significativas.
+
+• Una transición a mantención preventiva podría recuperar ~2-3% de OEE 
+  mediante la reducción de paradas no planificadas.
+
