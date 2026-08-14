@@ -49,6 +49,13 @@ Implementar un esquema de **mantención preventiva** reduciría significativamen
 
 Para validar el análisis en un entorno de nube, el proyecto se migró a Google BigQuery, replicando el modelo de datos y las consultas en SQL estándar de GoogleSQL.
 
+![OEE global en BigQuery](bigquery_oee_global.png)
+![Pareto de causas en BigQuery](bigquery_pareto.png)
+![Pareto de causas en BigQuery](bigquery_pareto1.png)
+![Análisis de mantención en BigQuery](bigquery_mantencion.png)
+![Análisis de mantención en BigQuery](bigquery_mantencion1.png)
+![Análisis de mantención en BigQuery](bigquery_mantencion2.png)
+
 ## Proceso
 Creación de un proyecto en Google Cloud Platform con BigQuery Sandbox.
 Definición del dataset oee_manufactura (región southamerica-west1).
