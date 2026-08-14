@@ -45,6 +45,42 @@ Calidad = Unidades Buenas / Unidades Producidas
 
 Implementar un esquema de **mantención preventiva** reduciría significativamente la duración y frecuencia de paradas por falla de equipo, mejorando la disponibilidad y, por consiguiente, el OEE global.
 
+## Migración a Google Cloud (BigQuery)
+
+Para validar el análisis en un entorno de nube, el proyecto se migró a Google BigQuery, replicando el modelo de datos y las consultas en SQL estándar de GoogleSQL.
+
+## Proceso
+Creación de un proyecto en Google Cloud Platform con BigQuery Sandbox.
+Definición del dataset oee_manufactura (región southamerica-west1).
+Carga de las tablas produccion (1.086 filas) y paradas (749 filas) con detección automática de esquema.
+Reescritura de las consultas a GoogleSQL (SAFE_DIVIDE, COUNTIF, FORMAT_DATE) y ejecución del análisis completo.
+Validación cruzada SQLite vs BigQuery
+
+Los resultados de ambos motores coinciden, confirmando que la migración preservó la integridad de los datos y la lógica de cálculo:
+
+Métrica	SQLite	BigQuery
+Disponibilidad	92.40%	92.40%
+Rendimiento	88.90%	88.87%
+Calidad	97.40%	97.35%
+OEE Global	79.90%	79.94%
+Relación entre mantención y fallas (BigQuery)
+Días desde última mantención	Turnos	Min. falla promedio	Tasa de falla
+0–15 días	809	3.8	5.6%
+16–30 días	268	17.0	16.8%
+31+ días	9	40.0	33.3%
+
+La tasa de falla se triplica al pasar de máquinas recién intervenidas (0–15 días) a máquinas con más de dos semanas sin mantención.
+
+Nota metodológica: la conclusión se sustenta en la comparación entre las dos primeras franjas, que concentran 1.077 de los 1.086 turnos observados. La franja de 31+ días refuerza la tendencia, pero con solo 9 observaciones no es estadísticamente concluyente por sí sola.
+
+Técnicas SQL aplicadas
+CTEs (WITH) para estructurar el análisis en pasos legibles.
+Funciones de ventana (SUM() OVER) para el porcentaje acumulado del diagrama de Pareto.
+LEFT JOIN entre producción y paradas, preservando los turnos sin fallas (clave para no sesgar el cálculo de la tasa de falla).
+SAFE_DIVIDE para manejo seguro de divisiones por cero.
+
+Consultas completas en consultas_bigquery_oee.sql.
+
 ## Estructura del Proyecto
 
 oee-manufacturing-analysis/
@@ -70,14 +106,14 @@ python generar_datos_oee.py
 # - paradas.csv
 ```
 
-## Próximas Fases
+## Fases del Proyecto
 
-Este proyecto es la **Fase 1** de un portafolio de análisis de datos:
-- **Fase 2**: Modelar datos en SQL (tablas relacionales)
-- **Fase 3**: Calcular OEE y análisis exploratorio con Python/SQL
-- **Fase 4**: Crear dashboard interactivo en Power BI
-- **Fase 5**: Cargar datos en BigQuery (Google Cloud Platform)
-- **Fase 6**: Documentación y best practices
+- **Fase 1** — Generación de datos simulados con Python
+- **Fase 2** — Modelado relacional y carga en SQL (SQLite)
+- **Fase 3** — Análisis exploratorio (EDA) y visualizaciones
+- **Fase 4** — Dashboard interactivo en Power BI
+- **Fase 5** — Migración y validación en Google BigQuery
+- **Fase 6** — Documentación y publicación
 
 ## Autor
 
