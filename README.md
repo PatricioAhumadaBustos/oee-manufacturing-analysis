@@ -82,7 +82,7 @@ Este proyecto es la **Fase 1** de un portafolio de análisis de datos:
 ## Autor
 
 **Patricio Ahumada** | Analista / Ingeniero de Datos  
-Santiago, Chile | [LinkedIn](https://linkedin.com/in/patricio-ahumada-bustos) | [GitHub](https://github.com/Patrickmeliodas)
+Santiago, Chile | [LinkedIn](https://linkedin.com/in/patricio-ahumada-bustos) | [GitHub](https://github.com/PatricioAhumadaBustos)
 
 ---
 
