@@ -9,7 +9,7 @@ falla, de 5,6% a 16,8%.
 
 ---
 
-## Sobre los datos — léelo primero
+## Sobre los datos — 
 
 > **Este proyecto usa un dataset simulado, y es una decisión deliberada.**
 
